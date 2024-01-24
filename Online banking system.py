@@ -1,40 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# <center>
-# 
-# # 5- Online Banking System
-# 
-# </center>
-# 
-
-# ##
-
-# In[ ]:
-
-
-
-
-
-# # Team:
-# **1. Esraa Emad Abdelreheem Fakhr**  
-# **2. Rahma Tarek Mohamed Ali**  
-# **3. Shimaa Abdelaal Mohammed Fawzy**  
-# **4. Abdelrahman Mohamed Rabie Mohammdy**  
-# **5. Marwa Samir Abdelrahim Hussine**
-# 
-
-# In[ ]:
-
-
-
-
-
-# ##
-
-# ### User Class :
-
-# In[1]:
 
 
 class User:
